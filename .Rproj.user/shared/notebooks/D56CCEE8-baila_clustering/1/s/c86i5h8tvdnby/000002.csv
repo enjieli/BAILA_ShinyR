@@ -1,0 +1,5 @@
+"0","scaled.dat <- "
+"0","  clean_baila_data %>% "
+"0","  select(-""bg_id"") %>%"
+"0","  st_set_geometry(NULL) %>%"
+"0","  scale()"

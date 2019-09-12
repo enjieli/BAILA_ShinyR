@@ -1,0 +1,3 @@
+"0","M <-cor(scaled.dat)"
+"0","corrplot(M, order=""hclust"",type=""upper"","
+"0","         col=brewer.pal(n=10, name=""RdYlBu""), tl.col = 'black',tl.cex = 0.5)"

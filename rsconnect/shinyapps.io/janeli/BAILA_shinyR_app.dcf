@@ -1,0 +1,12 @@
+name: BAILA_shinyR_app
+title: BAILA_shinyR_app
+username:
+account: janeli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1041490
+bundleId: 2255541
+url: https://janeli.shinyapps.io/BAILA_shinyR_app/
+when: 1563819022.21728
+asMultiple: FALSE
+asStatic: FALSE

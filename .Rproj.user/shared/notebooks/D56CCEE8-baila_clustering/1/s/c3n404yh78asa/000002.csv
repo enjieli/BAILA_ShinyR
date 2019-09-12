@@ -1,0 +1,6 @@
+"0","clean_baila_data %>%"
+"0","  ggplot()+"
+"0","  geom_sf(aes(fill= urban_type), color = NA) +"
+"0","  scale_fill_brewer(palette = ""Spectral"", direction = -1) +"
+"0","  coord_sf(crs = st_crs(clean_baila_data), datum = NA) +"
+"0","  theme_classic()"

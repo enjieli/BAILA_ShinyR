@@ -1,0 +1,7 @@
+"0","dend %>%"
+"0","  set(""labels"", NA) %>%"
+"0","  color_branches(k=9, groupLabels =TRUE) %>% "
+"0","  set(""labels_colors"", k = 9 ) %>%"
+"0","  set(""branches_lwd"", 0.5) %>% # Branches line width"
+"0","  set(""branches_k_color"", k = 9) %>%"
+"0","  plot() "

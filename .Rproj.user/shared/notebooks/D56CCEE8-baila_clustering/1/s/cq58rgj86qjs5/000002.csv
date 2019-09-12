@@ -1,0 +1,4 @@
+"0","clean_baila_data %>%"
+"0","  st_set_geometry(NULL) %>%"
+"0","  group_by(urban_type) %>%"
+"0","  summarise(n=n())"

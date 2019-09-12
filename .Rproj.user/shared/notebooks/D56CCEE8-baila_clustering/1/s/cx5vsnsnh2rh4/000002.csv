@@ -1,0 +1,5 @@
+"0","dend <- "
+"0","  scaled.dat %>% # Scale the data"
+"0","  dist (method = ""euclidean"") %>% # calculate a distance matrix"
+"0","  hclust(method = ""ward.D2"")  %>% # Hierarchical clustering "
+"0","  as.dendrogram # Turn the object into a dendrogram"

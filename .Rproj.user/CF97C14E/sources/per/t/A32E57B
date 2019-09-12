@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563565464799.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1674292423",
+    "id" : "A32E57B",
+    "lastKnownWriteTime" : 1563566574,
+    "last_content_update" : 1563566574322,
+    "path" : "~/Dropbox/BAILA/BAILA_shinyR_app/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "194,0",
+        "scrollLine" : "180"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
