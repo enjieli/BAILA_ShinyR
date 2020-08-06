@@ -35,7 +35,6 @@ levels(typology$urban_types) <- c("Low development with natural vegetation",
 
 ####ggmap to display the sites#####
 library(ggmap)
-api_key = 'AIzaSyAKNH6AJUXLdY5-EogUbN5794tNnwcYM9k'
 register_google(key = api_key)
 
 
